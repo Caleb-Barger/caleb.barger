@@ -1,13 +1,12 @@
-import React from 'react';
+import React from 'react'
 
 const Post1 = () => {
-    return (
-    <div className="post">
-       <h2 className="postTitle">This is Post 1 wow</h2> 
-       <p>orem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus semper justo, ut maximus metus aliquam quis. Fusce ultricies elit non tincidunt elementum. Pellentesque sit amet risus et mauris congue suscipit. Nam imperdiet odio nulla, eu interdum erat consequat pellentesque. Nunc a imperdiet justo. In sem tellus, semper sed urna ac, condimentum consectetur quam. Duis magna ex, finibus eu commodo faucibus, sodales ut turpis. Donec elementum libero sed dui malesuada pharetra. Sed eget neque eget nulla consequat consequat at eu sem. Nam euismod mauris in odio sodales, ac convallis lectus lacinia. Sed pellentesque egestas aliquam. Nullam in mauris pharetra, finibus sapien nec, sagittis ex. Proin est eros, volutpat in mi iaculis, euismod tincidunt libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum semper libero a eleifend sollicitudin. Suspendisse ac nulla gravida nulla finibus consequat eget ut erat. Integer venenatis nulla sed eleifend sollicitudin. In hac habitasse platea dictumst. In sed odio id orci viverra ullamcorper eu et lacus. Curabitur non dui quis odio pulvinar pretium eget at nulla. Donec at tellus gravida, tempor sem sed, tempus justo. Ut quis magna id augue aliquet commodo id eget tortor. Proin in felis pulvinar sapien tincidunt pharetra in vel ex. Phasellus maximus odio ut felis fringilla ultrices. Quisque eleifend orci at libero porttitor tristique. Nullam faucibus eu risus vel posuere. Etiam condimentum consectetur hendrerit. Sed a fermentum quam. Pellentesque pulvinar commodo ex, sed elementum felis aliquet at. Donec nec efficitur lectus, eget elementum mi. Nulla posuere tellus vel elit tempor, egestas convallis diam pharetra. Fusce nec lectus at nisl molestie accumsan. Donec quis urna placerat, finibus mi id, imperdiet mauris. Nulla congue vitae nulla eget vulputate. Integer auctor sodales hendrerit. Proin non urna lectus. Donec consectetur facilisis orci sed placerat. Nulla rutrum dapibus quam, non finibus quam convallis eget. Morbi pharetra lectus lectus. In hac habitasse platea dictumst. Fusce tincidunt vulputate elit in vulputate. Donec non nisl feugiat, consectetur lorem in, condimentum orci. Suspendisse vehicula massa nunc, non vehicula nunc condimentum eget. Nunc a risus sem. Sed vitae ligula mollis, finibus odio eu, tincidunt urna. Maecenas ante purus, pulvinar quis mollis et, faucibus at urna. Praesent rhoncus magna quis sapien consectetur tincidunt. Maecenas non ex bibendum, finibus tellus non, consequat massa. Donec dictum scelerisque mattis. Nulla ultrices sed metus in sollicitudin. Duis sollicitudin nisl in enim finibus, ut dictum nunc tincidunt. In iaculis urna metus, at fermentum lorem elementum sit amet. Proin felis mi, faucibus quis velit quis, dictum commodo libero. Integer at consequat arcu.</p>
-    </div>
-    );
+	return (
+		<div className="post">
+			<h2 className="postTitle">Groking Linux, a CS students prespective.</h2>
+			<p></p>
+		</div>
+	)
 }
 
-
-export default Post1;
+export default Post1
