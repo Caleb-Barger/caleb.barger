@@ -14,7 +14,7 @@ const Posts = () => {
 			<div className="posts">
 				<h2>Hello? yeah not much here yet.</h2>
 				<div className="postSummary">
-					<Link className="postLink" to="/post1">Groking Linux, a CS students prespective.</Link>
+					<Link className="postLink" to="/post1">Groking Linux, a CS students prespective. (WORK IN PROGRESS)</Link>
 					<p>12 January, 2021</p>
 					<p></p>
 				</div>
