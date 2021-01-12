@@ -1,38 +1,106 @@
-.App {
-  text-align: center;
+h1 {
+    font-size: 1.6rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h2 {
+    font-size: 1.5rem; 
+    font-weight: 400;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+p {
+    font-weight: 300;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+hr {
+    margin: 0rem 10%;
+    border: 0.01rem solid black;
+   
 }
 
-.App-link {
-  color: #61dafb;
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 1rem 10% 0rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.headerText {
+    display: flex;  
+    flex-direction: column;
+    line-height: 2.6rem;
 }
+
+.headerText p {
+    font-weight: 300;
+}
+
+.headerText h1 {
+    font-weight: 200;
+}
+
+.postsLink {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 0.8rem;
+}
+
+.postsLink:hover {
+    text-decoration: underline;
+}
+
+.posts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: spcae-between;
+    line-height: 2rem;
+    margin: 1rem 10% .5rem;
+}
+
+.posts h2 {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.postSummary {
+    line-height: 2rem;
+}
+
+.postLink {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 0.9rem;
+}
+
+.postLink:hover {
+    text-decoration: underline;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: spcae-between;
+    margin: 1rem 10% .5rem;
+    line-height: 2rem;
+}
+
+.postTitle {
+    margin-bottom: 0.7rem;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   margin: 4rem 0rem;
+   font-size: 0.8rem;
+   font-weight: 100
+}
+
