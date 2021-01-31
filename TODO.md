@@ -1,2 +1,2 @@
-Add big old discord link somewhere.
-Get some sort of MD intigration working for future writing.
+1. Add big old discord link somewhere.
+2. Get some sort of MD intigration working for future writing.
