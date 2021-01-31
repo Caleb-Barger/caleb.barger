@@ -33,7 +33,7 @@ function App () {
 		<>
 			<div className="header">
 				<div className="headerText">
-					<h1>{'{ caleb.web }'}</h1>
+					<h1>{'{ caleb.barger}'}</h1>
 					<p>Potatoes from Idaho</p>
 				</div>
 				<Link className="postsLink" to="/">posts</Link>
