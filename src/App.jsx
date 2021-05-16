@@ -14,8 +14,8 @@ const Posts = () => {
 			<div className="posts">
 				<h2>Hello? yeah not much here yet.</h2>
 				<div className="postSummary">
-					<Link className="postLink" to="/post1">Groking Linux, a CS students prespective. (WORK IN PROGRESS)</Link>
-					<p>12 January, 2021</p>
+					<Link className="postLink" to="/post1">Writing an "Earthboundesc" battle sim</Link>
+					<p>16 May, 2021</p>
 					<p></p>
 				</div>
 			</div>
@@ -34,7 +34,7 @@ function App () {
 			<div className="header">
 				<div className="headerText">
 					<h1>{'{ caleb.barger}'}</h1>
-					<p>Potatoes from Idaho</p>
+					<p>Dlang? anyone</p>
 				</div>
 				<Link className="postsLink" to="/">posts</Link>
 			</div>
