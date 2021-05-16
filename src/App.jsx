@@ -12,9 +12,8 @@ const Posts = () => {
 	return (
 		<>
 			<div className="posts">
-				<h2>Hello? yeah not much here yet.</h2>
 				<div className="postSummary">
-					<Link className="postLink" to="/post1">Writing an "Earthboundesc" battle sim</Link>
+					<Link className="postLink" to="/post1">Writing an {'"Earthboundesc"'} battle sim</Link>
 					<p>16 May, 2021</p>
 					<p></p>
 				</div>
